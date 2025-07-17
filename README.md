@@ -102,7 +102,7 @@ Com base nos dados estruturados no banco, foi construído um dashboard interativ
 
 ## Imagem do Dashboard
 
-<img width="1305" height="729" alt="Captura de tela 2025-07-17 105131" src="https://github.com/user-attachments/assets/b3a1467b-a442-4351-81fb-58254019839e" />
+<img width="1305" height="729" alt="Captura de tela 2025-07-17 105131" src="https://github.com/user-attachments/assets/5a7bef15-c73d-4f58-b523-111598458ab1" />
 
 ---
 
