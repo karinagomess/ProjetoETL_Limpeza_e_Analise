@@ -24,7 +24,7 @@ A empresa fictícia forneceu um arquivo com dados de vendas realizados por diver
 
 ## 🗃️ Fonte de Dados
 
-- **Arquivo fornecido**: `vendas_simuladas_julho_2025_com_custo.csv`
+- **Arquivo fornecido**: `vendasjulho_2025.csv`
 - **Quantidade de registros**: 6.000 linhas
 - **Período**: Julho de 2025
 - **Colunas disponíveis**:
